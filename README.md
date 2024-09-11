@@ -11,7 +11,7 @@ This is a simple, content-based movie recommender system built using Python and 
 
 ## 🚀 Demo
 
-Check out the live demo of the app here: [Movie Recommender System]([https://your-app-url.streamlit.app](https://movie-recommender-sys-j5otxdqzv3buk7zdwfqvjz.streamlit.app/)) (replace with your deployed app link).
+Check out the live demo of the app here: [Movie Recommender System](https://movie-recommender-sys-j5otxdqzv3buk7zdwfqvjz.streamlit.app/).
 
 ## 🛠️ Tech Stack
 
