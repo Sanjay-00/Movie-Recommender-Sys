@@ -74,7 +74,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # App Title
-st.markdown('<p class="title">🎬 Movie Recommender System</p>', unsafe_allow_html=True)
+st.markdown('<p class="title">🎬 CineMatch</p>', unsafe_allow_html=True)
 
 # Dropdown menu to select a movie
 selected_movie_name = st.selectbox(
